@@ -1,0 +1,132 @@
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+.body-page{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+.logo{ 
+    
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+font-family: "Roboto", sans-serif;
+}
+
+.nav-element{
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+font-family: "Roboto", sans-serif;
+}
+
+.nav-element:hover {
+color: #404BBF;
+}
+
+.address-link:hover {
+    color: #404BBF;
+}
+
+
+.hero-buton:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.hero-buton{
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.hero-h1{
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.section-1-h3{
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.section-1-p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.section-2-h2{
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.section-2-h3{
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.section-2-p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+.section-3-h2{
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.section-3-h3{
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.section-3-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455; 
+}
