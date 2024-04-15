@@ -13,17 +13,18 @@ button{
 .body-page{
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 .logo{ 
     
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-font-family: "Roboto", sans-serif;
+font-family: "Raleway", sans-serif;
 }
 
 .nav-element{
@@ -39,8 +40,32 @@ font-family: "Roboto", sans-serif;
 color: #404BBF;
 }
 
+.nav-element:focus {
+    color: #404bbf;
+}
+
+.address-page{
+    font-style: normal
+}
+
 .address-link:hover {
     color: #404BBF;
+}
+
+.address-link:focus {
+    color: #404bbf;
+}
+
+.address-link {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.section-hero{
+    background-color: #2e2f42;
 }
 
 
@@ -49,15 +74,23 @@ color: #404BBF;
     color: #FFFFFF;
 }
 
+.hero-buton:focus{
+    background-color: #404BBF;
+}
+
 .hero-buton{
     background-color: #4D5AE5;
     color: #FFFFFF;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
 }
 
-.hero-h1{
+.hero-h1 {
     font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -129,4 +162,24 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455; 
+}
+
+.studio-logo{
+    color: #2e2f42;
+}
+
+.footer-page{
+    background-color: #2e2f42;
+}
+
+.footer-page .studio-logo{
+    color: #f4f4fd;
+}
+
+.footer-p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
